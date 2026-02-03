@@ -41,7 +41,6 @@ document.getElementById('export').addEventListener('click', async () => {
       console.warn('Failed to get tab group details:', error);
     }
 
-    // 构建最终输出对象
     const output = {
       meta: {
         totalTabs: allTabs.length,
