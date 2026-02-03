@@ -1,8 +1,8 @@
 # export-chrome-tabs-extension
 
 
-# Example
-``code json
+## Example
+```json
 {
   "meta": {
     "totalTabs": 14,
@@ -98,4 +98,4 @@
     }
   ]
 }
-``
+```
