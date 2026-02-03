@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Export All Tabs",
+  "version": "1.0",
+  "description": "Export all open tabs to a JSON file",
+  "permissions": [
+    "tabs",
+    "tabGroups"
+  ],
+  "action": {
+    "default_title": "Export Tabs",
+    "default_popup": "popup.html"
+  }
+}
