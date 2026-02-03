@@ -1,5 +1,6 @@
 # export-chrome-tabs-extension
 
+突发奇想想把 Chrome tabs 导出，然后删掉不需要的 tabs，节约空间
 
 ## Example
 ```json
